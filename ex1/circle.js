@@ -1,0 +1,2 @@
+module.exports.getCircumference = radius => `The circumference of a circle of radius ${radius} is ${2 * (Math.PI * radius)}`;
+module.exports.getArea = radius => `Its area is ${Math.PI * (radius ** 2)}`;
